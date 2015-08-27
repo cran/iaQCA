@@ -2,7 +2,7 @@
 % Please edit documentation in R/configuration.table.R
 \name{conf.table}
 \alias{conf.table}
-\title{configuration table}
+\title{Configuration Table}
 \usage{
 conf.table(data, ncut = 4)
 }

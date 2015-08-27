@@ -1,4 +1,4 @@
-#' configuration table
+#' Configuration Table
 #' 
 #' Internal function; calculates via logistic regression the output of Irvine Recommendation
 #' @import QCA bootstrap
